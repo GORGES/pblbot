@@ -1,0 +1,4 @@
+pebble build || { exit 1; }
+if [ ! -z $1 ]; then 
+  pebble install --phone $1 --logs
+fi

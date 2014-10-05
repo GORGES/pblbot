@@ -1,0 +1,16 @@
+{
+  "uuid": "a9b3e1f7-cb70-48b3-8df3-6285ff87fe10",
+  "shortName": "PblBot",
+  "longName": "PblBot",
+  "companyName": "Robot, Inc.",
+  "versionCode": 0,
+  "versionLabel": "1.0",
+  "watchapp": {"watchface": false},
+  "capabilities":[],
+  "appKeys": {},
+  "resources": {
+    "media": [
+      { "menuIcon":true, "type":"png", "name":"IMAGE_MENU", "file":"images/menu.png" }
+     ]
+  }
+}
